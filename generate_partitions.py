@@ -1,9 +1,7 @@
 import copy
 import pandas as pd
-from enum import Enum
 import sys
 import json
-import random
 
 #initialization
 global_minimum = sys.maxsize
