@@ -1,0 +1,2698 @@
+[
+    {
+        "symbol": "SMH",
+        "volume": 13269252.349999994
+    },
+    {
+        "symbol": "PUBM",
+        "volume": 1039138.9999999993
+    },
+    {
+        "symbol": "API",
+        "volume": 2622510.999999999
+    },
+    {
+        "symbol": "LOGI",
+        "volume": 1156575.5499999986
+    },
+    {
+        "symbol": "ABC",
+        "volume": 0
+    },
+    {
+        "symbol": "VFC",
+        "volume": 16581298.449999984
+    },
+    {
+        "symbol": "GRAB",
+        "volume": 59870730.14999998
+    },
+    {
+        "symbol": "ACWI",
+        "volume": 6843747.299999999
+    },
+    {
+        "symbol": "BBWI",
+        "volume": 7725544.749999999
+    },
+    {
+        "symbol": "EXPD",
+        "volume": 2105277.45
+    },
+    {
+        "symbol": "VWO",
+        "volume": 14033057.949999994
+    },
+    {
+        "symbol": "AU",
+        "volume": 4491983.8999999985
+    },
+    {
+        "symbol": "CVAC",
+        "volume": 1881716.5999999982
+    },
+    {
+        "symbol": "AMPL",
+        "volume": 976474.5999999997
+    },
+    {
+        "symbol": "SKYY",
+        "volume": 304101.34999999986
+    },
+    {
+        "symbol": "UUP",
+        "volume": 2408873.999999994
+    },
+    {
+        "symbol": "ASND",
+        "volume": 1004010.8999999996
+    },
+    {
+        "symbol": "ADT",
+        "volume": 10200117.0
+    },
+    {
+        "symbol": "BMO",
+        "volume": 2168258.85
+    },
+    {
+        "symbol": "TD",
+        "volume": 5612985.05
+    },
+    {
+        "symbol": "MBB",
+        "volume": 4807850.7
+    },
+    {
+        "symbol": "ANSS",
+        "volume": 1076236.35
+    },
+    {
+        "symbol": "O",
+        "volume": 9122614.7
+    },
+    {
+        "symbol": "DB",
+        "volume": 4965222.699999999
+    },
+    {
+        "symbol": "UMC",
+        "volume": 18826860.85
+    },
+    {
+        "symbol": "ARKK",
+        "volume": 18074530.25
+    },
+    {
+        "symbol": "CVNA",
+        "volume": 8478300.499999998
+    },
+    {
+        "symbol": "V",
+        "volume": 12328214.049999988
+    },
+    {
+        "symbol": "CCI",
+        "volume": 4465735.299999998
+    },
+    {
+        "symbol": "HPE",
+        "volume": 34759275.749999985
+    },
+    {
+        "symbol": "AVGO",
+        "volume": 67967603.0
+    },
+    {
+        "symbol": "PFE",
+        "volume": 67082546.25
+    },
+    {
+        "symbol": "VTI",
+        "volume": 4723707.75
+    },
+    {
+        "symbol": "RACE",
+        "volume": 486107.24999999994
+    },
+    {
+        "symbol": "VRTX",
+        "volume": 2168909.4
+    },
+    {
+        "symbol": "TER",
+        "volume": 3416372.9
+    },
+    {
+        "symbol": "JMIA",
+        "volume": 9666285.7
+    },
+    {
+        "symbol": "AMZN",
+        "volume": 72073844.69999999
+    },
+    {
+        "symbol": "LUMN",
+        "volume": 46934152.04999998
+    },
+    {
+        "symbol": "VRSN",
+        "volume": 1181690.6999999997
+    },
+    {
+        "symbol": "HES",
+        "volume": 3697050.449999997
+    },
+    {
+        "symbol": "KD",
+        "volume": 3126188.0999999996
+    },
+    {
+        "symbol": "AAP",
+        "volume": 3973786.8999999994
+    },
+    {
+        "symbol": "BAC",
+        "volume": 60232098.8
+    },
+    {
+        "symbol": "OTLY",
+        "volume": 5363399.199999996
+    },
+    {
+        "symbol": "PLBY",
+        "volume": 1603447.45
+    },
+    {
+        "symbol": "MTCH",
+        "volume": 10160382.799999999
+    },
+    {
+        "symbol": "BIRD",
+        "volume": 140270.85749999998
+    },
+    {
+        "symbol": "NUE",
+        "volume": 2778809.9499999997
+    },
+    {
+        "symbol": "EA",
+        "volume": 3573996.3999999994
+    },
+    {
+        "symbol": "MSI",
+        "volume": 1208358.2
+    },
+    {
+        "symbol": "PLUG",
+        "volume": 92414960.79999995
+    },
+    {
+        "symbol": "KLTR",
+        "volume": 518821.89999999944
+    },
+    {
+        "symbol": "SPHD",
+        "volume": 1224624.8499999999
+    },
+    {
+        "symbol": "SAP",
+        "volume": 1487169.15
+    },
+    {
+        "symbol": "FRSH",
+        "volume": 5394746.85
+    },
+    {
+        "symbol": "NU",
+        "volume": 61259127.34999993
+    },
+    {
+        "symbol": "BBY",
+        "volume": 5352050.399999999
+    },
+    {
+        "symbol": "JBLU",
+        "volume": 30655498.39999998
+    },
+    {
+        "symbol": "VMEO",
+        "volume": 5022576.799999998
+    },
+    {
+        "symbol": "SNPS",
+        "volume": 1882123.0999999999
+    },
+    {
+        "symbol": "EC",
+        "volume": 4074707.7999999993
+    },
+    {
+        "symbol": "ENPH",
+        "volume": 7593464.399999999
+    },
+    {
+        "symbol": "AON",
+        "volume": 2144246.5
+    },
+    {
+        "symbol": "SQ",
+        "volume": 15180970.549999999
+    },
+    {
+        "symbol": "SDC",
+        "volume": 0
+    },
+    {
+        "symbol": "TXN",
+        "volume": 9058708.799999999
+    },
+    {
+        "symbol": "JLL",
+        "volume": 506694.1
+    },
+    {
+        "symbol": "AMED",
+        "volume": 821226.0999999995
+    },
+    {
+        "symbol": "BMBL",
+        "volume": 5485025.299999997
+    },
+    {
+        "symbol": "KSS",
+        "volume": 12004814.649999999
+    },
+    {
+        "symbol": "BA",
+        "volume": 20491225.849999998
+    },
+    {
+        "symbol": "PSX",
+        "volume": 3925135.1499999994
+    },
+    {
+        "symbol": "DKNG",
+        "volume": 19198328.09999999
+    },
+    {
+        "symbol": "AMH",
+        "volume": 4393694.549999998
+    },
+    {
+        "symbol": "SCCO",
+        "volume": 1863232.16795
+    },
+    {
+        "symbol": "HAL",
+        "volume": 14418313.9
+    },
+    {
+        "symbol": "BF.B",
+        "volume": 3444737.3999999994
+    },
+    {
+        "symbol": "PHM",
+        "volume": 3229949.5
+    },
+    {
+        "symbol": "GAP",
+        "volume": 11594666.0
+    },
+    {
+        "symbol": "EIDO",
+        "volume": 1179738.7999999993
+    },
+    {
+        "symbol": "MPC",
+        "volume": 4366327.549999997
+    },
+    {
+        "symbol": "TWST",
+        "volume": 1750309.449999999
+    },
+    {
+        "symbol": "PRU",
+        "volume": 2463850.25
+    },
+    {
+        "symbol": "UNH",
+        "volume": 9150365.149999991
+    },
+    {
+        "symbol": "MMM",
+        "volume": 9758714.899999978
+    },
+    {
+        "symbol": "NMR",
+        "volume": 7319761.749999998
+    },
+    {
+        "symbol": "SHOP",
+        "volume": 18420767.9
+    },
+    {
+        "symbol": "NOW",
+        "volume": 2324584.7499999986
+    },
+    {
+        "symbol": "DD",
+        "volume": 4850349.6
+    },
+    {
+        "symbol": "TDUP",
+        "volume": 1452346.15
+    },
+    {
+        "symbol": "AKAM",
+        "volume": 3211677.8499999978
+    },
+    {
+        "symbol": "DG",
+        "volume": 6701088.549999998
+    },
+    {
+        "symbol": "CRM",
+        "volume": 12660721.999999996
+    },
+    {
+        "symbol": "BIDU",
+        "volume": 8316582.249999999
+    },
+    {
+        "symbol": "HOLX",
+        "volume": 2799669.8999999994
+    },
+    {
+        "symbol": "CVS",
+        "volume": 22065627.3
+    },
+    {
+        "symbol": "CPRI",
+        "volume": 6875171.35
+    },
+    {
+        "symbol": "NYT",
+        "volume": 2075586.7999999996
+    },
+    {
+        "symbol": "AES",
+        "volume": 18458802.749999993
+    },
+    {
+        "symbol": "M",
+        "volume": 12301403.499999996
+    },
+    {
+        "symbol": "ALGN",
+        "volume": 1358316.65
+    },
+    {
+        "symbol": "SPWR",
+        "volume": 41834657.59999993
+    },
+    {
+        "symbol": "SAN",
+        "volume": 5312143.749999999
+    },
+    {
+        "symbol": "PLD",
+        "volume": 5615736.25
+    },
+    {
+        "symbol": "ACAD",
+        "volume": 3143288.849999999
+    },
+    {
+        "symbol": "VEA",
+        "volume": 17572816.75
+    },
+    {
+        "symbol": "GRMN",
+        "volume": 1644026.7999999996
+    },
+    {
+        "symbol": "DUK",
+        "volume": 4734927.85
+    },
+    {
+        "symbol": "CTSH",
+        "volume": 6472106.599999999
+    },
+    {
+        "symbol": "UPS",
+        "volume": 7119772.999999999
+    },
+    {
+        "symbol": "MMC",
+        "volume": 2714263.05
+    },
+    {
+        "symbol": "CZR",
+        "volume": 7443788.999999999
+    },
+    {
+        "symbol": "PAYC",
+        "volume": 1534793.2499999993
+    },
+    {
+        "symbol": "SWKS",
+        "volume": 4207707.649999999
+    },
+    {
+        "symbol": "D",
+        "volume": 7914775.799999996
+    },
+    {
+        "symbol": "IDXX",
+        "volume": 920148.0
+    },
+    {
+        "symbol": "VSCO",
+        "volume": 4690170.3
+    },
+    {
+        "symbol": "TWLO",
+        "volume": 5503499.8999999985
+    },
+    {
+        "symbol": "BBVA",
+        "volume": 3406919.1999999993
+    },
+    {
+        "symbol": "ARVL",
+        "volume": 927165.2999999963
+    },
+    {
+        "symbol": "RMD",
+        "volume": 1994064.749999997
+    },
+    {
+        "symbol": "SE",
+        "volume": 9819374.75
+    },
+    {
+        "symbol": "FUBO",
+        "volume": 20841307.9
+    },
+    {
+        "symbol": "TECH",
+        "volume": 1641617.2499999984
+    },
+    {
+        "symbol": "WDAY",
+        "volume": 4862402.699999996
+    },
+    {
+        "symbol": "FIVN",
+        "volume": 3006155.4499999997
+    },
+    {
+        "symbol": "FIVE",
+        "volume": 3037900.5999999996
+    },
+    {
+        "symbol": "ZTS",
+        "volume": 4828637.849999998
+    },
+    {
+        "symbol": "ZG",
+        "volume": 1278007.5999999994
+    },
+    {
+        "symbol": "ARE",
+        "volume": 1826775.6499999994
+    },
+    {
+        "symbol": "BMY",
+        "volume": 21874141.999999996
+    },
+    {
+        "symbol": "HUM",
+        "volume": 3982156.0999999996
+    },
+    {
+        "symbol": "AMAT",
+        "volume": 10947225.6
+    },
+    {
+        "symbol": "TROW",
+        "volume": 2285723.9499999997
+    },
+    {
+        "symbol": "ML",
+        "volume": 495316.1
+    },
+    {
+        "symbol": "HON",
+        "volume": 5764287.149999999
+    },
+    {
+        "symbol": "NEE",
+        "volume": 18244290.949999996
+    },
+    {
+        "symbol": "MDB",
+        "volume": 3039517.4999999995
+    },
+    {
+        "symbol": "ABT",
+        "volume": 9297896.899999993
+    },
+    {
+        "symbol": "GTLB",
+        "volume": 5243609.249999999
+    },
+    {
+        "symbol": "PG",
+        "volume": 10624448.199999994
+    },
+    {
+        "symbol": "ALL",
+        "volume": 2487417.8999999994
+    },
+    {
+        "symbol": "DHI",
+        "volume": 4542682.899999999
+    },
+    {
+        "symbol": "SFIX",
+        "volume": 5345174.699999989
+    },
+    {
+        "symbol": "SPG",
+        "volume": 2248825.1499999994
+    },
+    {
+        "symbol": "CNI",
+        "volume": 2207492.9499999997
+    },
+    {
+        "symbol": "LOGC",
+        "volume": 691624.0
+    },
+    {
+        "symbol": "IGOV",
+        "volume": 503258.4499999998
+    },
+    {
+        "symbol": "HLF",
+        "volume": 4303998.549999999
+    },
+    {
+        "symbol": "AMGN",
+        "volume": 4719354.299999997
+    },
+    {
+        "symbol": "NKLA",
+        "volume": 12501383.049999995
+    },
+    {
+        "symbol": "PTON",
+        "volume": 37093972.099999994
+    },
+    {
+        "symbol": "USB",
+        "volume": 14398293.15
+    },
+    {
+        "symbol": "BIO",
+        "volume": 368291.74999999994
+    },
+    {
+        "symbol": "SNN",
+        "volume": 1647451.5999999996
+    },
+    {
+        "symbol": "TSM",
+        "volume": 28279473.049999997
+    },
+    {
+        "symbol": "DUOL",
+        "volume": 1268393.4999999998
+    },
+    {
+        "symbol": "PUK",
+        "volume": 1990751.7999999973
+    },
+    {
+        "symbol": "DOCU",
+        "volume": 7795778.05
+    },
+    {
+        "symbol": "AFL",
+        "volume": 4093622.3999999994
+    },
+    {
+        "symbol": "GLW",
+        "volume": 11496137.049999999
+    },
+    {
+        "symbol": "HRL",
+        "volume": 4238722.149999999
+    },
+    {
+        "symbol": "KLAC",
+        "volume": 1729141.7999999996
+    },
+    {
+        "symbol": "TME",
+        "volume": 15831751.449999997
+    },
+    {
+        "symbol": "MNST",
+        "volume": 14598702.25
+    },
+    {
+        "symbol": "IAC",
+        "volume": 1113726.0499999998
+    },
+    {
+        "symbol": "GDDY",
+        "volume": 2356346.2999999993
+    },
+    {
+        "symbol": "BP",
+        "volume": 14075029.2
+    },
+    {
+        "symbol": "VTV",
+        "volume": 3180217.0999999996
+    },
+    {
+        "symbol": "SEDG",
+        "volume": 8175074.199999994
+    },
+    {
+        "symbol": "XLB",
+        "volume": 8919916.24999999
+    },
+    {
+        "symbol": "BCS",
+        "volume": 24534949.69999999
+    },
+    {
+        "symbol": "ENTG",
+        "volume": 3390430.8
+    },
+    {
+        "symbol": "ADM",
+        "volume": 10410646.749999996
+    },
+    {
+        "symbol": "LRCX",
+        "volume": 19864153.2
+    },
+    {
+        "symbol": "NTES",
+        "volume": 3250591.6
+    },
+    {
+        "symbol": "NFLX",
+        "volume": 6776821.449999997
+    },
+    {
+        "symbol": "MKC",
+        "volume": 3384895.3499999978
+    },
+    {
+        "symbol": "BLK",
+        "volume": 907922.7999999997
+    },
+    {
+        "symbol": "WFC",
+        "volume": 29808142.949999996
+    },
+    {
+        "symbol": "KO",
+        "volume": 22259803.25
+    },
+    {
+        "symbol": "GIS",
+        "volume": 6367096.499999999
+    },
+    {
+        "symbol": "QS",
+        "volume": 26189303.999999996
+    },
+    {
+        "symbol": "WYNN",
+        "volume": 4447762.849999999
+    },
+    {
+        "symbol": "TMUS",
+        "volume": 7569044.899999999
+    },
+    {
+        "symbol": "ONL",
+        "volume": 713459.3499999997
+    },
+    {
+        "symbol": "LI",
+        "volume": 16840356.549999997
+    },
+    {
+        "symbol": "CPB",
+        "volume": 4075243.6999999997
+    },
+    {
+        "symbol": "PPG",
+        "volume": 2779462.899999998
+    },
+    {
+        "symbol": "MAT",
+        "volume": 5796232.599999998
+    },
+    {
+        "symbol": "ROK",
+        "volume": 1813183.1499999997
+    },
+    {
+        "symbol": "ALLY",
+        "volume": 6293792.299999999
+    },
+    {
+        "symbol": "WPM",
+        "volume": 3122479.4
+    },
+    {
+        "symbol": "MT",
+        "volume": 2549270.5999999996
+    },
+    {
+        "symbol": "ADI",
+        "volume": 5545312.2
+    },
+    {
+        "symbol": "CHD",
+        "volume": 2306093.8999999994
+    },
+    {
+        "symbol": "LMT",
+        "volume": 2050408.6999999965
+    },
+    {
+        "symbol": "CPNG",
+        "volume": 20836086.599999994
+    },
+    {
+        "symbol": "STX",
+        "volume": 4616324.75
+    },
+    {
+        "symbol": "DOCN",
+        "volume": 2452156.2499999995
+    },
+    {
+        "symbol": "WMT",
+        "volume": 27601096.249999974
+    },
+    {
+        "symbol": "AXP",
+        "volume": 4787048.55
+    },
+    {
+        "symbol": "MTTR",
+        "volume": 4823819.699999999
+    },
+    {
+        "symbol": "PXD",
+        "volume": 3475335.9999999995
+    },
+    {
+        "symbol": "MELI",
+        "volume": 677737.4499999998
+    },
+    {
+        "symbol": "SONY",
+        "volume": 7609655.25
+    },
+    {
+        "symbol": "ABBV",
+        "volume": 9438619.249999993
+    },
+    {
+        "symbol": "KEYS",
+        "volume": 2259002.35
+    },
+    {
+        "symbol": "SNAP",
+        "volume": 54275273.199999996
+    },
+    {
+        "symbol": "MFC",
+        "volume": 5138851.499999997
+    },
+    {
+        "symbol": "MSFT",
+        "volume": 31237467.649999984
+    },
+    {
+        "symbol": "FSLR",
+        "volume": 5032920.099999999
+    },
+    {
+        "symbol": "RL",
+        "volume": 1399925.3499999999
+    },
+    {
+        "symbol": "CSX",
+        "volume": 18541547.7
+    },
+    {
+        "symbol": "PSA",
+        "volume": 1194668.0499999998
+    },
+    {
+        "symbol": "GOOG",
+        "volume": 35904759.4
+    },
+    {
+        "symbol": "LW",
+        "volume": 5551906.649999999
+    },
+    {
+        "symbol": "IRM",
+        "volume": 2974722.699999999
+    },
+    {
+        "symbol": "FXLV",
+        "volume": 128101.75
+    },
+    {
+        "symbol": "SQSP",
+        "volume": 2623719.9499999983
+    },
+    {
+        "symbol": "WMB",
+        "volume": 9291459.1
+    },
+    {
+        "symbol": "DASH",
+        "volume": 7143407.449999997
+    },
+    {
+        "symbol": "XRAY",
+        "volume": 5715210.199999995
+    },
+    {
+        "symbol": "FSLY",
+        "volume": 7272475.649999997
+    },
+    {
+        "symbol": "ACN",
+        "volume": 4783473.849999998
+    },
+    {
+        "symbol": "TTWO",
+        "volume": 2936009.8999999994
+    },
+    {
+        "symbol": "ODFL",
+        "volume": 2793819.649999997
+    },
+    {
+        "symbol": "HLT",
+        "volume": 2512144.6499999994
+    },
+    {
+        "symbol": "DPZ",
+        "volume": 1072957.5
+    },
+    {
+        "symbol": "DLTR",
+        "volume": 6182783.399999999
+    },
+    {
+        "symbol": "VNQ",
+        "volume": 6662105.099999999
+    },
+    {
+        "symbol": "ABNB",
+        "volume": 8002323.4
+    },
+    {
+        "symbol": "CMCSA",
+        "volume": 29912540.649999995
+    },
+    {
+        "symbol": "WIT",
+        "volume": 10347092.299999999
+    },
+    {
+        "symbol": "FDX",
+        "volume": 3831027.649999997
+    },
+    {
+        "symbol": "CHTR",
+        "volume": 2669939.4999999986
+    },
+    {
+        "symbol": "ZS",
+        "volume": 4290902.349999999
+    },
+    {
+        "symbol": "DHR",
+        "volume": 4884285.799999999
+    },
+    {
+        "symbol": "MDLZ",
+        "volume": 11043158.499999998
+    },
+    {
+        "symbol": "NOC",
+        "volume": 1571072.049999999
+    },
+    {
+        "symbol": "ABCL",
+        "volume": 3424115.349999999
+    },
+    {
+        "symbol": "KMX",
+        "volume": 3603159.15
+    },
+    {
+        "symbol": "SYY",
+        "volume": 5781007.55
+    },
+    {
+        "symbol": "PARA",
+        "volume": 36087130.65
+    },
+    {
+        "symbol": "EXR",
+        "volume": 1762928.1999999997
+    },
+    {
+        "symbol": "INTU",
+        "volume": 2517339.649999999
+    },
+    {
+        "symbol": "HPQ",
+        "volume": 13660389.449999994
+    },
+    {
+        "symbol": "ILMN",
+        "volume": 3478178.199999999
+    },
+    {
+        "symbol": "KEY",
+        "volume": 24631800.099999994
+    },
+    {
+        "symbol": "AME",
+        "volume": 1997144.1499999992
+    },
+    {
+        "symbol": "GPN",
+        "volume": 4002905.05
+    },
+    {
+        "symbol": "UNP",
+        "volume": 3372252.4
+    },
+    {
+        "symbol": "CRWD",
+        "volume": 11846999.299999997
+    },
+    {
+        "symbol": "LNT",
+        "volume": 2581879.799999999
+    },
+    {
+        "symbol": "JPM",
+        "volume": 15840824.899999999
+    },
+    {
+        "symbol": "WDC",
+        "volume": 11501537.949999997
+    },
+    {
+        "symbol": "SPY",
+        "volume": 96424795.6
+    },
+    {
+        "symbol": "CRL",
+        "volume": 1039461.9499999998
+    },
+    {
+        "symbol": "FANG",
+        "volume": 3360033.5999999996
+    },
+    {
+        "symbol": "EDR",
+        "volume": 7273436.699999998
+    },
+    {
+        "symbol": "ABB",
+        "volume": 0
+    },
+    {
+        "symbol": "AQN",
+        "volume": 10502475.999999993
+    },
+    {
+        "symbol": "GT",
+        "volume": 9252577.6
+    },
+    {
+        "symbol": "PAYO",
+        "volume": 5406449.249999999
+    },
+    {
+        "symbol": "VLO",
+        "volume": 4714024.399999999
+    },
+    {
+        "symbol": "ORCL",
+        "volume": 17807374.25
+    },
+    {
+        "symbol": "VNQI",
+        "volume": 490435.4499999989
+    },
+    {
+        "symbol": "BKNG",
+        "volume": 443759.0999999999
+    },
+    {
+        "symbol": "SWK",
+        "volume": 2893816.9999999995
+    },
+    {
+        "symbol": "CF",
+        "volume": 3499748.9499999983
+    },
+    {
+        "symbol": "CHWY",
+        "volume": 19217852.4
+    },
+    {
+        "symbol": "FCEL",
+        "volume": 2695383.243329999
+    },
+    {
+        "symbol": "APPN",
+        "volume": 1097072.1999999993
+    },
+    {
+        "symbol": "WB",
+        "volume": 4411663.349999997
+    },
+    {
+        "symbol": "ALC",
+        "volume": 1576008.95
+    },
+    {
+        "symbol": "AWK",
+        "volume": 2074403.7499999995
+    },
+    {
+        "symbol": "HOOD",
+        "volume": 36928119.2
+    },
+    {
+        "symbol": "CINF",
+        "volume": 1249721.45
+    },
+    {
+        "symbol": "PSEC",
+        "volume": 5060543.049999999
+    },
+    {
+        "symbol": "RELY",
+        "volume": 3078841.4
+    },
+    {
+        "symbol": "ECL",
+        "volume": 1970436.7999999998
+    },
+    {
+        "symbol": "NLY",
+        "volume": 8291635.449999999
+    },
+    {
+        "symbol": "FTNT",
+        "volume": 10680435.7
+    },
+    {
+        "symbol": "JNJ",
+        "volume": 10111091.1
+    },
+    {
+        "symbol": "MLAC",
+        "volume": 0
+    },
+    {
+        "symbol": "HOG",
+        "volume": 2975823.799999997
+    },
+    {
+        "symbol": "BNS",
+        "volume": 3445153.1999999997
+    },
+    {
+        "symbol": "AGNC",
+        "volume": 24504667.399999984
+    },
+    {
+        "symbol": "SLV",
+        "volume": 43451154.349999994
+    },
+    {
+        "symbol": "AOR",
+        "volume": 517785.29999999964
+    },
+    {
+        "symbol": "MAR",
+        "volume": 2422691.599999998
+    },
+    {
+        "symbol": "VMW",
+        "volume": 0
+    },
+    {
+        "symbol": "CIBR",
+        "volume": 1159744.25
+    },
+    {
+        "symbol": "VZ",
+        "volume": 30217155.049999997
+    },
+    {
+        "symbol": "FIGS",
+        "volume": 6462404.149999996
+    },
+    {
+        "symbol": "ANGI",
+        "volume": 1788480.5999999994
+    },
+    {
+        "symbol": "YUMC",
+        "volume": 6233464.049999997
+    },
+    {
+        "symbol": "U",
+        "volume": 22929910.849999987
+    },
+    {
+        "symbol": "AMD",
+        "volume": 103939668.39999999
+    },
+    {
+        "symbol": "NKE",
+        "volume": 21579018.84999999
+    },
+    {
+        "symbol": "CS",
+        "volume": 0
+    },
+    {
+        "symbol": "CRON",
+        "volume": 5101575.599999998
+    },
+    {
+        "symbol": "WBA",
+        "volume": 36675760.749999985
+    },
+    {
+        "symbol": "XEL",
+        "volume": 9293933.39999999
+    },
+    {
+        "symbol": "CTLT",
+        "volume": 3951203.5999999996
+    },
+    {
+        "symbol": "NIO",
+        "volume": 109750519.14999999
+    },
+    {
+        "symbol": "GME",
+        "volume": 86232896.44999991
+    },
+    {
+        "symbol": "DXCM",
+        "volume": 8712842.099999996
+    },
+    {
+        "symbol": "K",
+        "volume": 4996040.2
+    },
+    {
+        "symbol": "ACI",
+        "volume": 6858658.75
+    },
+    {
+        "symbol": "FVRR",
+        "volume": 1471453.7499999993
+    },
+    {
+        "symbol": "KMI",
+        "volume": 23461485.049999993
+    },
+    {
+        "symbol": "LEVI",
+        "volume": 4004795.549999994
+    },
+    {
+        "symbol": "INTC",
+        "volume": 118795372.44999999
+    },
+    {
+        "symbol": "ROST",
+        "volume": 3926520.7999999993
+    },
+    {
+        "symbol": "UPWK",
+        "volume": 4343057.3
+    },
+    {
+        "symbol": "COIN",
+        "volume": 22924088.349999998
+    },
+    {
+        "symbol": "DISH",
+        "volume": 0
+    },
+    {
+        "symbol": "A",
+        "volume": 2846970.9499999997
+    },
+    {
+        "symbol": "HAS",
+        "volume": 2992992.1499999976
+    },
+    {
+        "symbol": "FMC",
+        "volume": 3600453.3
+    },
+    {
+        "symbol": "BNGO",
+        "volume": 4877943.549999998
+    },
+    {
+        "symbol": "DVA",
+        "volume": 1442451.0499999996
+    },
+    {
+        "symbol": "ISRG",
+        "volume": 2476139.1999999997
+    },
+    {
+        "symbol": "UPST",
+        "volume": 13023539.249999993
+    },
+    {
+        "symbol": "META",
+        "volume": 25258514.59999998
+    },
+    {
+        "symbol": "JD",
+        "volume": 30664832.349999987
+    },
+    {
+        "symbol": "KKR",
+        "volume": 6713875.199999999
+    },
+    {
+        "symbol": "SBUX",
+        "volume": 19982706.999999978
+    },
+    {
+        "symbol": "IVZ",
+        "volume": 7162132.149999999
+    },
+    {
+        "symbol": "DECK",
+        "volume": 3643424.1999999997
+    },
+    {
+        "symbol": "KR",
+        "volume": 9373243.849999996
+    },
+    {
+        "symbol": "DBX",
+        "volume": 6533683.599999997
+    },
+    {
+        "symbol": "AIG",
+        "volume": 6711499.5
+    },
+    {
+        "symbol": "GPRO",
+        "volume": 3397660.299999999
+    },
+    {
+        "symbol": "LEN",
+        "volume": 4000467.8499999996
+    },
+    {
+        "symbol": "NVO",
+        "volume": 8911403.699999996
+    },
+    {
+        "symbol": "CVE",
+        "volume": 15765698.799999999
+    },
+    {
+        "symbol": "NET",
+        "volume": 6066879.449999992
+    },
+    {
+        "symbol": "BUD",
+        "volume": 3471298.4499999993
+    },
+    {
+        "symbol": "BSX",
+        "volume": 9764532.349999998
+    },
+    {
+        "symbol": "SAVA",
+        "volume": 8017790.299999999
+    },
+    {
+        "symbol": "RJF",
+        "volume": 2381278.9
+    },
+    {
+        "symbol": "BILL",
+        "volume": 4362460.099999999
+    },
+    {
+        "symbol": "TSP",
+        "volume": 19926763.399999995
+    },
+    {
+        "symbol": "PGX",
+        "volume": 6574709.299999998
+    },
+    {
+        "symbol": "TEAM",
+        "volume": 3392957.6999999974
+    },
+    {
+        "symbol": "ITW",
+        "volume": 1707881.899999999
+    },
+    {
+        "symbol": "BHP",
+        "volume": 3643671.8499999996
+    },
+    {
+        "symbol": "TASK",
+        "volume": 480551.3999999998
+    },
+    {
+        "symbol": "TTD",
+        "volume": 6944850.099999994
+    },
+    {
+        "symbol": "BND",
+        "volume": 11963711.399999999
+    },
+    {
+        "symbol": "DBA",
+        "volume": 1090528.9499999995
+    },
+    {
+        "symbol": "ANET",
+        "volume": 16102044.599999998
+    },
+    {
+        "symbol": "LVS",
+        "volume": 10160783.7
+    },
+    {
+        "symbol": "PDBC",
+        "volume": 7126962.749999999
+    },
+    {
+        "symbol": "ALLE",
+        "volume": 1319880.4
+    },
+    {
+        "symbol": "CSCO",
+        "volume": 31159054.6
+    },
+    {
+        "symbol": "KMB",
+        "volume": 3597708.749999999
+    },
+    {
+        "symbol": "ACM",
+        "volume": 1471584.8499999992
+    },
+    {
+        "symbol": "PWR",
+        "volume": 1568812.6999999986
+    },
+    {
+        "symbol": "PATH",
+        "volume": 20806280.999999993
+    },
+    {
+        "symbol": "HSY",
+        "volume": 3210702.299999998
+    },
+    {
+        "symbol": "BRDS",
+        "volume": 0
+    },
+    {
+        "symbol": "ADSK",
+        "volume": 3307656.3499999996
+    },
+    {
+        "symbol": "GSK",
+        "volume": 7773843.299999995
+    },
+    {
+        "symbol": "LAZR",
+        "volume": 3655413.5700149983
+    },
+    {
+        "symbol": "TXG",
+        "volume": 3069538.05
+    },
+    {
+        "symbol": "DNUT",
+        "volume": 4158327.8999999994
+    },
+    {
+        "symbol": "PINS",
+        "volume": 17265244.649999995
+    },
+    {
+        "symbol": "ASML",
+        "volume": 3045505.4499999993
+    },
+    {
+        "symbol": "AZN",
+        "volume": 9897464.649999995
+    },
+    {
+        "symbol": "HD",
+        "volume": 4735539.449999999
+    },
+    {
+        "symbol": "NDAQ",
+        "volume": 4606902.499999997
+    },
+    {
+        "symbol": "MCHP",
+        "volume": 10820571.799999999
+    },
+    {
+        "symbol": "MU",
+        "volume": 42236136.49999999
+    },
+    {
+        "symbol": "RCL",
+        "volume": 4343358.799999998
+    },
+    {
+        "symbol": "AEG",
+        "volume": 5253576.3999999985
+    },
+    {
+        "symbol": "CAG",
+        "volume": 8199647.849999999
+    },
+    {
+        "symbol": "ADBE",
+        "volume": 6581075.649999999
+    },
+    {
+        "symbol": "OMC",
+        "volume": 3065329.0999999996
+    },
+    {
+        "symbol": "QCOM",
+        "volume": 16293220.849999998
+    },
+    {
+        "symbol": "RBLX",
+        "volume": 12956947.749999998
+    },
+    {
+        "symbol": "UAL",
+        "volume": 14543535.399999999
+    },
+    {
+        "symbol": "GOLD",
+        "volume": 34410912.4
+    },
+    {
+        "symbol": "CAT",
+        "volume": 4457929.999999999
+    },
+    {
+        "symbol": "DVN",
+        "volume": 12798083.2
+    },
+    {
+        "symbol": "SKLZ",
+        "volume": 227854.04999999996
+    },
+    {
+        "symbol": "FCX",
+        "volume": 20125473.05
+    },
+    {
+        "symbol": "ARR",
+        "volume": 2178721.4499999997
+    },
+    {
+        "symbol": "CROX",
+        "volume": 2296946.099999999
+    },
+    {
+        "symbol": "NVDA",
+        "volume": 668403307.0
+    },
+    {
+        "symbol": "SPCE",
+        "volume": 3726396.849999998
+    },
+    {
+        "symbol": "LULU",
+        "volume": 4058297.149999999
+    },
+    {
+        "symbol": "WM",
+        "volume": 2727080.999999999
+    },
+    {
+        "symbol": "HDV",
+        "volume": 1029804.1499999996
+    },
+    {
+        "symbol": "IIPR",
+        "volume": 454859.44999999984
+    },
+    {
+        "symbol": "GS",
+        "volume": 3945804.4499999997
+    },
+    {
+        "symbol": "WSM",
+        "volume": 3891915.6999999974
+    },
+    {
+        "symbol": "EQNR",
+        "volume": 5823802.399999994
+    },
+    {
+        "symbol": "AIV",
+        "volume": 1916774.549999999
+    },
+    {
+        "symbol": "CB",
+        "volume": 2604521.7999999993
+    },
+    {
+        "symbol": "FE",
+        "volume": 5103324.449999996
+    },
+    {
+        "symbol": "HNST",
+        "volume": 4809645.599999999
+    },
+    {
+        "symbol": "CNQ",
+        "volume": 9299383.149999999
+    },
+    {
+        "symbol": "DAL",
+        "volume": 15993621.849999987
+    },
+    {
+        "symbol": "ZBH",
+        "volume": 2736712.549999999
+    },
+    {
+        "symbol": "CHRW",
+        "volume": 2742985.9499999983
+    },
+    {
+        "symbol": "MANU",
+        "volume": 1975998.1499999997
+    },
+    {
+        "symbol": "NVAX",
+        "volume": 23077886.399999987
+    },
+    {
+        "symbol": "APD",
+        "volume": 2819087.4499999993
+    },
+    {
+        "symbol": "MAIN",
+        "volume": 642112.2499999998
+    },
+    {
+        "symbol": "EPAM",
+        "volume": 1342130.0999999996
+    },
+    {
+        "symbol": "BTI",
+        "volume": 8715174.999999998
+    },
+    {
+        "symbol": "BKCC",
+        "volume": 496116.5999999999
+    },
+    {
+        "symbol": "CGC",
+        "volume": 21686418.45
+    },
+    {
+        "symbol": "ALB",
+        "volume": 4735254.949999999
+    },
+    {
+        "symbol": "BKR",
+        "volume": 13261861.45
+    },
+    {
+        "symbol": "EXFY",
+        "volume": 1518164.7499999988
+    },
+    {
+        "symbol": "CAH",
+        "volume": 3839341.05
+    },
+    {
+        "symbol": "OXY",
+        "volume": 17239998.099999998
+    },
+    {
+        "symbol": "MSTR",
+        "volume": 45321600.49999999
+    },
+    {
+        "symbol": "MQ",
+        "volume": 10239353.749999987
+    },
+    {
+        "symbol": "CDW",
+        "volume": 1853197.3499999992
+    },
+    {
+        "symbol": "AGCO",
+        "volume": 1418011.8499999996
+    },
+    {
+        "symbol": "BBIO",
+        "volume": 3973758.199999999
+    },
+    {
+        "symbol": "OTIS",
+        "volume": 3542977.8
+    },
+    {
+        "symbol": "VTRS",
+        "volume": 16756597.949999996
+    },
+    {
+        "symbol": "E",
+        "volume": 520433.0999999997
+    },
+    {
+        "symbol": "ALNY",
+        "volume": 1725139.2499999995
+    },
+    {
+        "symbol": "FTCH",
+        "volume": 0
+    },
+    {
+        "symbol": "VGT",
+        "volume": 755839.6499999998
+    },
+    {
+        "symbol": "SPLK",
+        "volume": 3050742.1999999993
+    },
+    {
+        "symbol": "DOW",
+        "volume": 9303214.049999999
+    },
+    {
+        "symbol": "TJX",
+        "volume": 7886515.899999998
+    },
+    {
+        "symbol": "STM",
+        "volume": 7150754.3999999985
+    },
+    {
+        "symbol": "OKTA",
+        "volume": 4461075.6
+    },
+    {
+        "symbol": "ASAN",
+        "volume": 5464818.849999998
+    },
+    {
+        "symbol": "MRNA",
+        "volume": 12336640.649999991
+    },
+    {
+        "symbol": "AAPL",
+        "volume": 98686247.39999995
+    },
+    {
+        "symbol": "SAVE",
+        "volume": 36875832.55
+    },
+    {
+        "symbol": "LHX",
+        "volume": 1594389.3499999994
+    },
+    {
+        "symbol": "SPLV",
+        "volume": 3430963.1499999994
+    },
+    {
+        "symbol": "XLF",
+        "volume": 63363211.3
+    },
+    {
+        "symbol": "LIN",
+        "volume": 3248695.6999999997
+    },
+    {
+        "symbol": "AOS",
+        "volume": 1659638.9
+    },
+    {
+        "symbol": "ADP",
+        "volume": 2486492.249999999
+    },
+    {
+        "symbol": "INO",
+        "volume": 1021050.6499999993
+    },
+    {
+        "symbol": "GDX",
+        "volume": 37921276.24999999
+    },
+    {
+        "symbol": "EOG",
+        "volume": 4775772.3
+    },
+    {
+        "symbol": "SNY",
+        "volume": 3887555.8499999978
+    },
+    {
+        "symbol": "LYFT",
+        "volume": 27903144.2
+    },
+    {
+        "symbol": "JCI",
+        "volume": 9176888.699999996
+    },
+    {
+        "symbol": "MO",
+        "volume": 19894581.849999998
+    },
+    {
+        "symbol": "FOX",
+        "volume": 1869256.699999999
+    },
+    {
+        "symbol": "BABA",
+        "volume": 37574988.89999998
+    },
+    {
+        "symbol": "JBHT",
+        "volume": 1637466.5499999998
+    },
+    {
+        "symbol": "TMO",
+        "volume": 2718040.549999998
+    },
+    {
+        "symbol": "CLX",
+        "volume": 2014729.75
+    },
+    {
+        "symbol": "CG",
+        "volume": 4386278.799999998
+    },
+    {
+        "symbol": "SU",
+        "volume": 7373261.499999996
+    },
+    {
+        "symbol": "HMY",
+        "volume": 8869301.749999994
+    },
+    {
+        "symbol": "XLU",
+        "volume": 21213754.75
+    },
+    {
+        "symbol": "SPOT",
+        "volume": 4410720.749999995
+    },
+    {
+        "symbol": "EXPE",
+        "volume": 4109855.4
+    },
+    {
+        "symbol": "PHG",
+        "volume": 1736277.4705949996
+    },
+    {
+        "symbol": "NTR",
+        "volume": 3273223.9
+    },
+    {
+        "symbol": "MRVL",
+        "volume": 23417222.4
+    },
+    {
+        "symbol": "ENB",
+        "volume": 9340241.749999998
+    },
+    {
+        "symbol": "MCO",
+        "volume": 1267473.9999999998
+    },
+    {
+        "symbol": "AEM",
+        "volume": 4614873.249999999
+    },
+    {
+        "symbol": "WE",
+        "volume": 0
+    },
+    {
+        "symbol": "USO",
+        "volume": 6945759.049999997
+    },
+    {
+        "symbol": "IT",
+        "volume": 688561.3499999999
+    },
+    {
+        "symbol": "HCA",
+        "volume": 2212400.4499999997
+    },
+    {
+        "symbol": "TSLA",
+        "volume": 158440779.24999997
+    },
+    {
+        "symbol": "EBAY",
+        "volume": 9228755.199999992
+    },
+    {
+        "symbol": "LCID",
+        "volume": 103721055.79999998
+    },
+    {
+        "symbol": "ATER",
+        "volume": 214492.62501499997
+    },
+    {
+        "symbol": "EQIX",
+        "volume": 985653.7499999997
+    },
+    {
+        "symbol": "BTWN",
+        "volume": 0
+    },
+    {
+        "symbol": "NEM",
+        "volume": 18676705.599999994
+    },
+    {
+        "symbol": "DLR",
+        "volume": 3378865.0499999993
+    },
+    {
+        "symbol": "XLE",
+        "volume": 22605394.349999994
+    },
+    {
+        "symbol": "LTC",
+        "volume": 478571.3999999992
+    },
+    {
+        "symbol": "AFRM",
+        "volume": 18970018.849999998
+    },
+    {
+        "symbol": "MCD",
+        "volume": 6152365.349999994
+    },
+    {
+        "symbol": "TGT",
+        "volume": 8929266.1
+    },
+    {
+        "symbol": "ING",
+        "volume": 4403267.75
+    },
+    {
+        "symbol": "ED",
+        "volume": 3419976.749999999
+    },
+    {
+        "symbol": "FUTU",
+        "volume": 7171098.799999997
+    },
+    {
+        "symbol": "SCHW",
+        "volume": 14005370.549999997
+    },
+    {
+        "symbol": "UAA",
+        "volume": 18459813.8
+    },
+    {
+        "symbol": "LMND",
+        "volume": 4220535.349999996
+    },
+    {
+        "symbol": "WMG",
+        "volume": 3579297.8499999987
+    },
+    {
+        "symbol": "MRK",
+        "volume": 15837295.449999997
+    },
+    {
+        "symbol": "JPIN",
+        "volume": 58791.749999999905
+    },
+    {
+        "symbol": "PYPL",
+        "volume": 24966684.45
+    },
+    {
+        "symbol": "ADPT",
+        "volume": 2772921.15
+    },
+    {
+        "symbol": "TSN",
+        "volume": 4209209.999999999
+    },
+    {
+        "symbol": "SAM",
+        "volume": 283656.79999999993
+    },
+    {
+        "symbol": "XLV",
+        "volume": 11476132.1
+    },
+    {
+        "symbol": "IWM",
+        "volume": 55224248.24999996
+    },
+    {
+        "symbol": "CTAS",
+        "volume": 2600698.8999999994
+    },
+    {
+        "symbol": "CL",
+        "volume": 6982893.949999998
+    },
+    {
+        "symbol": "BC",
+        "volume": 1294321.5999999999
+    },
+    {
+        "symbol": "SOFI",
+        "volume": 85871445.09999998
+    },
+    {
+        "symbol": "IEF",
+        "volume": 13728648.999999998
+    },
+    {
+        "symbol": "GE",
+        "volume": 12340140.427999994
+    },
+    {
+        "symbol": "CI",
+        "volume": 3222698.8999999966
+    },
+    {
+        "symbol": "NTAP",
+        "volume": 3384689.699999995
+    },
+    {
+        "symbol": "MGM",
+        "volume": 7053336.499999996
+    },
+    {
+        "symbol": "TPR",
+        "volume": 6596149.349999997
+    },
+    {
+        "symbol": "LYV",
+        "volume": 4424298.499999999
+    },
+    {
+        "symbol": "FFIV",
+        "volume": 1052579.45
+    },
+    {
+        "symbol": "RYAAY",
+        "volume": 3080338.749999998
+    },
+    {
+        "symbol": "XLP",
+        "volume": 18039348.249999996
+    },
+    {
+        "symbol": "GFI",
+        "volume": 6886070.6499999985
+    },
+    {
+        "symbol": "AMC",
+        "volume": 62252306.54999999
+    },
+    {
+        "symbol": "SNOW",
+        "volume": 15694781.049999995
+    },
+    {
+        "symbol": "PLTR",
+        "volume": 144237964.5999999
+    },
+    {
+        "symbol": "KHC",
+        "volume": 14202936.599999992
+    },
+    {
+        "symbol": "AMWL",
+        "volume": 255266.42499999996
+    },
+    {
+        "symbol": "BK",
+        "volume": 6661285.5
+    },
+    {
+        "symbol": "EH",
+        "volume": 3471739.799999999
+    },
+    {
+        "symbol": "EL",
+        "volume": 7245741.999999998
+    },
+    {
+        "symbol": "PANW",
+        "volume": 16020322.0
+    },
+    {
+        "symbol": "TRI",
+        "volume": 684354.2999999999
+    },
+    {
+        "symbol": "UBER",
+        "volume": 41071944.49999998
+    },
+    {
+        "symbol": "ATVI",
+        "volume": 0
+    },
+    {
+        "symbol": "LYB",
+        "volume": 3548967.3999999976
+    },
+    {
+        "symbol": "DE",
+        "volume": 2368472.4999999995
+    },
+    {
+        "symbol": "DGX",
+        "volume": 1709837.7
+    },
+    {
+        "symbol": "PAYX",
+        "volume": 2983152.4499999965
+    },
+    {
+        "symbol": "PGR",
+        "volume": 3690386.55
+    },
+    {
+        "symbol": "TTE",
+        "volume": 3164622.799999999
+    },
+    {
+        "symbol": "AEP",
+        "volume": 5550558.0
+    },
+    {
+        "symbol": "AMT",
+        "volume": 3878904.049999999
+    },
+    {
+        "symbol": "BRZE",
+        "volume": 2173088.9999999995
+    },
+    {
+        "symbol": "XPEV",
+        "volume": 24770865.249999996
+    },
+    {
+        "symbol": "CELH",
+        "volume": 13707754.799999997
+    },
+    {
+        "symbol": "ALLK",
+        "volume": 1716035.099999999
+    },
+    {
+        "symbol": "FXI",
+        "volume": 100049352.14999999
+    },
+    {
+        "symbol": "QRTEA",
+        "volume": 9272221.899999999
+    },
+    {
+        "symbol": "RTX",
+        "volume": 13031641.399999997
+    },
+    {
+        "symbol": "BB",
+        "volume": 23723448.3
+    },
+    {
+        "symbol": "ASX",
+        "volume": 12143813.65
+    },
+    {
+        "symbol": "CUBE",
+        "volume": 2293155.2999999993
+    },
+    {
+        "symbol": "TLT",
+        "volume": 65350562.349999994
+    },
+    {
+        "symbol": "C",
+        "volume": 24621758.599999998
+    },
+    {
+        "symbol": "GILD",
+        "volume": 11396406.049999995
+    },
+    {
+        "symbol": "TM",
+        "volume": 598908.5999999994
+    },
+    {
+        "symbol": "SHEL",
+        "volume": 6829376.85
+    },
+    {
+        "symbol": "COP",
+        "volume": 9315787.249999998
+    },
+    {
+        "symbol": "CVX",
+        "volume": 11793406.95
+    },
+    {
+        "symbol": "XOM",
+        "volume": 23613357.65
+    },
+    {
+        "symbol": "ETSY",
+        "volume": 7310613.2
+    },
+    {
+        "symbol": "ATO",
+        "volume": 1443792.5499999996
+    },
+    {
+        "symbol": "PEP",
+        "volume": 8325062.249999996
+    },
+    {
+        "symbol": "FIZZ",
+        "volume": 324787.69999999995
+    },
+    {
+        "symbol": "SLB",
+        "volume": 18645205.9
+    },
+    {
+        "symbol": "T",
+        "volume": 60265421.949999996
+    },
+    {
+        "symbol": "BIIB",
+        "volume": 2119640.7999999984
+    },
+    {
+        "symbol": "BNTX",
+        "volume": 1746499.6999999988
+    },
+    {
+        "symbol": "MA",
+        "volume": 3807491.9
+    },
+    {
+        "symbol": "MSCI",
+        "volume": 942885.2499999995
+    },
+    {
+        "symbol": "EMR",
+        "volume": 5103144.8
+    },
+    {
+        "symbol": "TSCO",
+        "volume": 9466479.449999997
+    },
+    {
+        "symbol": "XLY",
+        "volume": 6444311.399999999
+    },
+    {
+        "symbol": "DDOG",
+        "volume": 8180660.699999998
+    },
+    {
+        "symbol": "AZO",
+        "volume": 235549.69999999998
+    },
+    {
+        "symbol": "ANF",
+        "volume": 3336402.7499999995
+    },
+    {
+        "symbol": "QQQ",
+        "volume": 59546255.25
+    },
+    {
+        "symbol": "DOV",
+        "volume": 1591906.3499999994
+    },
+    {
+        "symbol": "IBM",
+        "volume": 7723862.799999995
+    },
+    {
+        "symbol": "PM",
+        "volume": 8779666.65
+    },
+    {
+        "symbol": "DLB",
+        "volume": 797073.2499999998
+    },
+    {
+        "symbol": "CCL",
+        "volume": 48900761.19999995
+    },
+    {
+        "symbol": "ICL",
+        "volume": 1587431.3999999994
+    },
+    {
+        "symbol": "TCOM",
+        "volume": 7871563.3999999985
+    },
+    {
+        "symbol": "BOTZ",
+        "volume": 1531384.4499999993
+    },
+    {
+        "symbol": "HUBS",
+        "volume": 1197249.0499999996
+    },
+    {
+        "symbol": "NCLH",
+        "volume": 21618222.249999993
+    },
+    {
+        "symbol": "BOX",
+        "volume": 4572684.649999997
+    },
+    {
+        "symbol": "RY",
+        "volume": 2582178.199999999
+    },
+    {
+        "symbol": "H",
+        "volume": 1089609.0999999999
+    },
+    {
+        "symbol": "LUV",
+        "volume": 15502660.549999999
+    },
+    {
+        "symbol": "PRTS",
+        "volume": 1688612.7499999995
+    },
+    {
+        "symbol": "CNC",
+        "volume": 6881239.399999998
+    },
+    {
+        "symbol": "CRSR",
+        "volume": 884141.9999999995
+    },
+    {
+        "symbol": "NVS",
+        "volume": 2394713.0
+    },
+    {
+        "symbol": "IQ",
+        "volume": 31829511.44999992
+    },
+    {
+        "symbol": "ULTA",
+        "volume": 2131899.249999997
+    },
+    {
+        "symbol": "BX",
+        "volume": 5888073.95
+    },
+    {
+        "symbol": "GM",
+        "volume": 22702943.849999998
+    },
+    {
+        "symbol": "ZM",
+        "volume": 5868797.799999999
+    },
+    {
+        "symbol": "ARKO",
+        "volume": 704925.2999999998
+    },
+    {
+        "symbol": "APTV",
+        "volume": 5938015.3
+    },
+    {
+        "symbol": "LQD",
+        "volume": 42178071.449999996
+    },
+    {
+        "symbol": "RIVN",
+        "volume": 84715083.54999994
+    },
+    {
+        "symbol": "COF",
+        "volume": 4271728.3
+    },
+    {
+        "symbol": "COST",
+        "volume": 3222107.5999999996
+    },
+    {
+        "symbol": "MRO",
+        "volume": 13199254.5
+    },
+    {
+        "symbol": "WEN",
+        "volume": 6013078.0
+    },
+    {
+        "symbol": "APO",
+        "volume": 5973446.0
+    },
+    {
+        "symbol": "YUM",
+        "volume": 3039117.7999999993
+    },
+    {
+        "symbol": "ESS",
+        "volume": 651854.7499999997
+    },
+    {
+        "symbol": "IDEX",
+        "volume": 820100.95
+    },
+    {
+        "symbol": "VIPS",
+        "volume": 8015608.549999998
+    },
+    {
+        "symbol": "NEGG",
+        "volume": 1281852.9499999988
+    },
+    {
+        "symbol": "WIX",
+        "volume": 1030513.9999999997
+    },
+    {
+        "symbol": "LLY",
+        "volume": 6489750.349999999
+    },
+    {
+        "symbol": "WMS",
+        "volume": 1044387.1999999994
+    },
+    {
+        "symbol": "AMCR",
+        "volume": 20325155.899999984
+    },
+    {
+        "symbol": "INCY",
+        "volume": 6072825.85
+    },
+    {
+        "symbol": "BDX",
+        "volume": 2699640.3499999996
+    },
+    {
+        "symbol": "FNKO",
+        "volume": 1373422.0499999996
+    },
+    {
+        "symbol": "UL",
+        "volume": 4606700.549999996
+    },
+    {
+        "symbol": "CRSP",
+        "volume": 3079804.8
+    },
+    {
+        "symbol": "AI",
+        "volume": 14691410.399999999
+    },
+    {
+        "symbol": "NRDS",
+        "volume": 1000336.6499999997
+    },
+    {
+        "symbol": "SBSW",
+        "volume": 12031835.5
+    },
+    {
+        "symbol": "WU",
+        "volume": 7568958.049999998
+    },
+    {
+        "symbol": "BNDX",
+        "volume": 5611654.35
+    },
+    {
+        "symbol": "BAX",
+        "volume": 6916563.25
+    },
+    {
+        "symbol": "CME",
+        "volume": 3252971.8499999996
+    },
+    {
+        "symbol": "FIS",
+        "volume": 6889122.249999999
+    },
+    {
+        "symbol": "VALE",
+        "volume": 46409977.5
+    },
+    {
+        "symbol": "CMG",
+        "volume": 28172755.949999996
+    },
+    {
+        "symbol": "SJM",
+        "volume": 1857753.399999999
+    },
+    {
+        "symbol": "DIA",
+        "volume": 5389928.3
+    },
+    {
+        "symbol": "TRIP",
+        "volume": 5342203.499999999
+    },
+    {
+        "symbol": "GPC",
+        "volume": 2229997.3999999994
+    },
+    {
+        "symbol": "VYM",
+        "volume": 1572512.0
+    },
+    {
+        "symbol": "TEF",
+        "volume": 1319716.0999999996
+    },
+    {
+        "symbol": "CDNS",
+        "volume": 3239805.049999999
+    },
+    {
+        "symbol": "REGN",
+        "volume": 1064019.95
+    },
+    {
+        "symbol": "XYL",
+        "volume": 2124896.95
+    },
+    {
+        "symbol": "RENT",
+        "volume": 573068.1499999996
+    },
+    {
+        "symbol": "ICLN",
+        "volume": 5797204.3
+    },
+    {
+        "symbol": "MCK",
+        "volume": 1471245.4999999998
+    },
+    {
+        "symbol": "ASTS",
+        "volume": 26064471.79999999
+    },
+    {
+        "symbol": "TDOC",
+        "volume": 10304683.35
+    },
+    {
+        "symbol": "SPGI",
+        "volume": 1894771.9
+    },
+    {
+        "symbol": "NNDM",
+        "volume": 2958173.7499999977
+    },
+    {
+        "symbol": "ARCC",
+        "volume": 6152595.199999998
+    },
+    {
+        "symbol": "NOK",
+        "volume": 30459025.09999999
+    },
+    {
+        "symbol": "AAL",
+        "volume": 58404927.699999996
+    },
+    {
+        "symbol": "MS",
+        "volume": 13754148.999999998
+    },
+    {
+        "symbol": "LOW",
+        "volume": 3589651.849999998
+    },
+    {
+        "symbol": "KB",
+        "volume": 381709.14999999997
+    },
+    {
+        "symbol": "AFG",
+        "volume": 523781.1
+    },
+    {
+        "symbol": "NRG",
+        "volume": 5635867.749999996
+    },
+    {
+        "symbol": "COUR",
+        "volume": 4500206.249999996
+    },
+    {
+        "symbol": "F",
+        "volume": 85893507.25
+    },
+    {
+        "symbol": "VIG",
+        "volume": 1698501.4499999993
+    },
+    {
+        "symbol": "HBAN",
+        "volume": 27387752.24999998
+    },
+    {
+        "symbol": "OPEN",
+        "volume": 49223949.59999998
+    },
+    {
+        "symbol": "MTB",
+        "volume": 1932300.6499999997
+    },
+    {
+        "symbol": "SIRI",
+        "volume": 10291523.499999994
+    },
+    {
+        "symbol": "DELL",
+        "volume": 22296151.94999998
+    },
+    {
+        "symbol": "TTCF",
+        "volume": 0
+    },
+    {
+        "symbol": "KGC",
+        "volume": 24329046.349999998
+    },
+    {
+        "symbol": "BAH",
+        "volume": 2306310.2499999995
+    },
+    {
+        "symbol": "BYND",
+        "volume": 5476517.149999999
+    },
+    {
+        "symbol": "VTIP",
+        "volume": 2304979.5999999996
+    },
+    {
+        "symbol": "BLOK",
+        "volume": 513977.49999999994
+    },
+    {
+        "symbol": "BEN",
+        "volume": 7573780.149999994
+    },
+    {
+        "symbol": "MDT",
+        "volume": 9072139.85
+    },
+    {
+        "symbol": "TWTR",
+        "volume": 0
+    },
+    {
+        "symbol": "ERIC",
+        "volume": 28138065.8
+    },
+    {
+        "symbol": "GD",
+        "volume": 2024097.9499999997
+    },
+    {
+        "symbol": "DIS",
+        "volume": 19590529.849999998
+    }
+]
