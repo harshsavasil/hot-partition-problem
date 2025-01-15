@@ -112,7 +112,8 @@ To get a local copy up and running follow these simple example steps.
 
 Here's how to use the partition algorithm:
 
-1. Prepare your input data in JSON format:```json
+1. Prepare your input data in JSON format:
+```json
 {
     "stocks": [
         {"symbol": "AAPL", "volume": 1000000},
@@ -124,6 +125,7 @@ Here's how to use the partition algorithm:
 ```
 
 2. Run the algorithm:
+
 ```
 python generate_partitions.py
 ```
@@ -140,11 +142,6 @@ python generate_partitions.py
   }]
 }
 ```
-
-For more detailed examples and API documentation, see our [Wiki](https://github.com/harshsavasil/hot-partition-problem/wiki).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
