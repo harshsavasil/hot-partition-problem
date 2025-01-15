@@ -85,11 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* Install Dependencies
-
-  ```
-  pip install -r requirements.txt
-  ```
+* Install Python
 
 ### Installation
 
@@ -128,7 +124,7 @@ Here's how to use the partition algorithm:
 ```
 
 2. Run the algorithm:
-```bash
+```
 python generate_partitions.py
 ```
 
