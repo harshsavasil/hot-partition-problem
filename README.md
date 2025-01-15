@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/harshsavasil/hot-partition-problem">
-    <img src="logo.png" alt="Logo" width="580" height="180">
+    <img src="logo.png" alt="Logo" width="380" height="480">
   </a>
 
   <h3 align="center">hot-partition-problem</h3>
